@@ -64,4 +64,6 @@ Naresh `yadav`
 
 > The markdown is very useful to users.
 
+> Git should be installed before we use the commends in the terminal because the commends are handled by the git. The github is only for storing the files and accessing them.
 
+> Note: We have to add the all files and  commit each time we modified the file and wehave to push to the git repo.
