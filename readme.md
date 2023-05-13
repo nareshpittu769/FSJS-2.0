@@ -27,10 +27,10 @@ Naresh `yadav`
 
 # Unordered list
 
-- unorderd list
-- two
+- one 
+- two 
 - three
-
+- 
 # Order inside Unordered List
 
 1. order list
